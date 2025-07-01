@@ -1,3 +1,0 @@
-push local system code to git 
-
-how to do git pull from to another server or machine 
